@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.example.orderapp-debug-30:/drawable_ic_add.xml.flat",
+        "source": "com.example.orderapp-main-32:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.example.orderapp-debug-30:/drawable_ic_remove.xml.flat",
+        "source": "com.example.orderapp-main-32:/drawable/ic_remove.xml"
+    },
+    {
+        "merged": "com.example.orderapp-debug-30:/layout_activity_main.xml.flat",
+        "source": "com.example.orderapp-main-32:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.orderapp-debug-30:/drawable_bg_minus.xml.flat",
+        "source": "com.example.orderapp-main-32:/drawable/bg_minus.xml"
+    },
+    {
+        "merged": "com.example.orderapp-debug-30:/layout_item_dish.xml.flat",
+        "source": "com.example.orderapp-main-32:/layout/item_dish.xml"
+    },
+    {
+        "merged": "com.example.orderapp-debug-30:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.orderapp-main-32:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.orderapp-debug-30:/drawable_bg_plus.xml.flat",
+        "source": "com.example.orderapp-main-32:/drawable/bg_plus.xml"
+    },
+    {
+        "merged": "com.example.orderapp-debug-30:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.orderapp-main-32:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.orderapp-debug-30:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.orderapp-main-32:/drawable/ic_launcher_foreground.xml"
+    }
+]

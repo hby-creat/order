@@ -1,0 +1,8 @@
+com.example.orderapp-pngs-0 C:\Users\14934\Desktop\order-app\app\build\generated\res\pngs\debug
+com.example.orderapp-updated_navigation_xml-1 C:\Users\14934\Desktop\order-app\app\build\generated\updated_navigation_xml\debug
+com.example.orderapp-packageDebugResources-2 C:\Users\14934\Desktop\order-app\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.orderapp-packageDebugResources-3 C:\Users\14934\Desktop\order-app\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.orderapp-debug-4 C:\Users\14934\Desktop\order-app\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.orderapp-debug-5 C:\Users\14934\Desktop\order-app\app\src\debug\res
+com.example.orderapp-main-6 C:\Users\14934\Desktop\order-app\app\src\main\res
+gradleHome-0 C:\Users\14934\.gradle

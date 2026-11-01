@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">点餐</string>
+    <string name="total_label">合计：</string>
+    <string name="zero_price">¥0</string>
+    <string name="submit">提交订单</string>
+    <string name="increase">加</string>
+    <string name="decrease">减</string>
+    <string name="order_preview">订单预览</string>
+    <string name="confirm_order">确认下单</string>
+    <string name="continue_order">继续点菜</string>
+    <string name="empty_order">还没有选菜，请先选择菜品</string>
+    <string name="submit_success">下单成功！</string>
+</resources>
